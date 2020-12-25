@@ -5,4 +5,4 @@ project(LeetCode)
 include_directories(Solutions)
 include_directories(Struct)
 
-add_executable(LeetCode main.cpp "Solutions/Graph/Q200.h")
+add_executable(LeetCode main.cpp "Solutions/Graph/Q200.h" "Solutions/Greedy/Q455.h")
