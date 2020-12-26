@@ -1,8 +1,8 @@
-#include "Solutions/Solution.h"
-#include "Solutions/Greedy/Q455.h"
+#include "Solution.h"
+#include "BackTracking/Q17.h"
 
 int main()
 {
-	Solution* s = new Q455();
+	Solution* s = new Q17();
 	s->Solve();
 }
