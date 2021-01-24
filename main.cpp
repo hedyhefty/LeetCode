@@ -1,8 +1,8 @@
 #include "Solution.h"
-#include "BackTracking/Q17.h"
+#include "String/Q205.h"
 
 int main()
 {
-	Solution* s = new Q17();
+	Solution* s = new Q205();
 	s->Solve();
 }

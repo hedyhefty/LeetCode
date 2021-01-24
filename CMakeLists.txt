@@ -6,4 +6,4 @@ include_directories(Solutions)
 include_directories(Struct)
 include_directories(Tools)
 
-add_executable(LeetCode main.cpp)
+add_executable(LeetCode main.cpp "Solutions/String/Q205.h")
